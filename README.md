@@ -16,7 +16,7 @@ This is a simple NodeJS Model that defines how to use:
 
 *partials* contains modules;
 
-The *modules*  folder contais some configurations files of database (db.js) and all module (config.js)
+The *modules*  folder contais configurations file (config.js) and database control (db.js)
 
 To install, just:
 
