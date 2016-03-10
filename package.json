@@ -1,0 +1,19 @@
+{
+	"name": "dctb-node-model",
+	"version": "1.0.0",
+	"description": "Just a simple model to serve simple pages",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Diogo Cezar <diogo@diogocezar.com>",
+	"license": "ISC",
+	"dependencies": {
+		"ejs": "^2.3.4",
+		"express": "^4.13.3",
+		"mysql": "^2.9.0",
+		"socket.io": "^1.3.7",
+		"twitter" : "1.2.5",
+		"instagram-node" : "0.5.8"
+	}
+}
